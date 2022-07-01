@@ -1,29 +1,64 @@
-## Hello EVERYONE!!! Welcome to my world
-<div align="center">
-  <a href="https://github.com/tvtp11052002/TPhProfile">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="[https://scontent.fdad3-1.fna.fbcdn.net/v/t39.30808-6/289821388_561635855408088_5871386910488991555_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_ohc=EkI2DhkJAEAAX-h2Mkp&_nc_ht=scontent.fdad3-1.fna&oh=00_AT8qPRfU541cG2vtD6hyYLHn8tBewmHftTEjg0C0Ysn-pg&oe=62C153F4">
-</div>
+<p align="center">
+  <img width="45%" height="auto" src="https://user-images.githubusercontent.com/72194651/139113951-b761cfe4-d52b-41b9-bbd2-0fb30aac963a.jpg" />
+  </p>
   
-  ##
+<h1 align="center">Hello everyone!!! Welcome to my world</h1>
+   
 
-<div> 
-  <a href="https://www.youtube.com/channel/UC-hjJ3PJ0dTlrVZ-InxAL3A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/pg_tvt/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/channels/991690005078618152/991690005602910329" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mail:tvtp11052002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/tran-van-tuan-phong-075510221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=levantanfc11&color=blue" alt="TPhProfile" /> </p>
+  
+
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=levantanfc11&row=1&column=6&margin-w=15" alt="TPhProfile" /> </p>
+
+
+<h3 align="center">Languages</h3>
+<h3 align="center">
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
+</a> 
+  <a href="https://www.rstudio.com/" target="_blank"> <img src="https://taiwebs.com/upload/icons/r-studio220-220.jpg" alt="R-Studio" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+
+
+<br>
+<br>
+<p align="center">
+    <a href="https://github.com/narayanbavisetti/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="VANTAN's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=levantanfc11&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+
+<br>
+<br>
+  
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/levantanfc11/github-readme-stats"><img alt="TPh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=levantanfc11&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/levantanfc11/github-readme-stats"><img alt="VANTAN's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levantanfc11&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+<a href="https://github.com/levantanfc11/github-readme-activity-graph"><img alt="VANTAN's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=levantanfc11&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/v%C4%83n-t%C3%A2n-l%C3%AA-816534209/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.facebook.com/bamneymar94/"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
+<a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+
+
+</p>
+
+
+## Watch my contribution graph eaten by the snake🐍
+![Snake animation](https://github.com/levantanfc11/levantanfc11/blob/output/github-contribution-grid-snake.svg)
+
